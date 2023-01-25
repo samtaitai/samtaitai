@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm SOYON
 ### A passionate CS student living in Toronto, Canada
 
-- 😫 I'm currently craving **C, Linux**
+- 😫 I'm learning **C, Linux, C++, JS**
 
 - ⚡ Fun fact **I was a brewer before studying CS**
 
