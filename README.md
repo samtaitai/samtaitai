@@ -1,9 +1,8 @@
-### 👋 Welcome to Soyon's github profile! 
-Passionate junior full-stack developer <br/>
-Study at [Seneca College](https://www.senecacollege.ca/programs/fulltime/CPA.html). 
+### 👋 Welcome to Soyon's GitHub profile! 
 
-* I love to use: ```JavaScript```, ```Python```, ```Vue JS```, ```Express JS```, ```HTML/CSS```, ```Django```
-* I'm learning: ```Java```, ```React```, ```Next.js```, ```Bash Shell script```, ```C#```
-* I'm interesed in: ```AWS```, ```Azure```, ```Docker```
+Full-stack developer with 2+ years building enterprise logistics and payroll systems. <br/>
+Graduate of [Seneca College](https://www.senecacollege.ca/programs/fulltime/CPA.html) Computer Programming & Analysis program.
 
-
+* I work with: ```.NET/C#```, ```Vue.js```, ```JavaScript/TypeScript```, ```Python```
+* I use: ```Docker```, ```Kubernetes```, ```Azure```, ```AWS```, ```ArgoCD```, ```Terraform```
+* I'm learning: ```React```, ```Next.js```
